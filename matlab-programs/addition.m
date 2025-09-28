@@ -1,5 +1,6 @@
 A = input('Enter first number: ');
 B = input('Enter second number: ');
-sum = A + B;
+C = input('Enter third number: ');
+sum = A + B + D:;
 disp(['Sum: ', num2str(sum)]);
 
