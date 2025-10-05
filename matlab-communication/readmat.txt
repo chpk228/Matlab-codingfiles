@@ -1,0 +1,24 @@
+Main Options to Run MATLAB on AWS
+🔹 1. Use MATLAB on AWS Marketplace (Prebuilt AMI)
+
+MathWorks provides official Amazon Machine Images (AMIs) with MATLAB pre-installed.
+
+Steps:
+
+Go to AWS Marketplace:
+
+https://aws.amazon.com/marketplace
+
+Search for “MATLAB”
+
+Choose a MATLAB AMI:
+
+Select one of the licensed MATLAB AMIs provided by MathWorks.
+
+Example: “MATLAB R2023b – MathWorks”
+
+Launch an EC2 Instance:
+
+Choose an instance type (e.g., t3.medium or c5.large)
+
+Configure storage and security group (open port 22 for SSH)
